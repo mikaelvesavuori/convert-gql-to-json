@@ -21,7 +21,7 @@ A basic example is located at `schema.graphql`. The generated output is at `sche
 
 ## Calling the API
 
-```
+```json
 POST http://127.0.0.1:8787 or https://{worker-name}.{domain}.workers.dev
 
 {
